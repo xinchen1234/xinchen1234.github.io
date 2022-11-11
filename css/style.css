@@ -18,7 +18,7 @@ main {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Roboto', sans-serif;;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -37,13 +37,8 @@ img {
   width: 100%;
 }
 
-.a {
 
-}
 
-.c {
-
-}
 
 .time {
   padding-left: 10px;
@@ -65,13 +60,13 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: 'Fragment Mono', monospace;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #000000;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }
@@ -86,6 +81,7 @@ img {
 .container {
   min-width: 500px;
   margin: auto;
+  background-color: antiquewhite;
 }
 
 footer {
