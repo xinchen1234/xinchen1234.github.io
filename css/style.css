@@ -3,7 +3,9 @@ header, footer {
   text-align: center;
   min-width: 500px;
 }
-
+a {
+  color: #00b09b;
+}
 main {
   display: grid;
   grid-template-columns: 1fr 1fr;
